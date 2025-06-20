@@ -1,7 +1,7 @@
 package BasicCalculations;
 
 import java.util.Scanner;
-
+// this is for basic calculator
 public class Multiplication {
     public void execute() {
         Scanner sc = new Scanner(System.in);
